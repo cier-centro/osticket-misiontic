@@ -8,7 +8,7 @@
 ----------------General--------------
 ------------------------------------*/
 body {
-  background: url(../images/background.png) no-repeat center center fixed #E8DBFF;
+  background: url(../images/background.svg) no-repeat center center fixed #E8DBFF;
   margin-top: 6vh;
 }
 body .container {
