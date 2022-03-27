@@ -20,7 +20,10 @@ body #container #logo {
 body #nav {
   margin: 0px;
   padding: 4px 10px;
-  background: #cecece;
+  background: #0066CD;
+}
+body #nav li a {
+  color: white;
 }
 
 /*----------------------------------
