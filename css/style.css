@@ -16,9 +16,9 @@ body #container {
 }
 body #container #logo {
   margin-top: 10px;
-  background: url(../images/icon.svg) no-repeat center center fixed;
-  height: 320px;
-  width: 80px;
+  background: url(../images/icon.svg) no-repeat center center content;
+  height: 80px;
+  width: 320px;
 }
 body #container #logo img {
   display: none;
