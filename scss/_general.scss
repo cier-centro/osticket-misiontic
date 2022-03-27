@@ -9,6 +9,13 @@ body {
         #header{}
         #logo{
             margin-top: 10px;
+            background: url(../images/icon.svg) no-repeat center center fixed;
+            height: 320px;
+            width: 80px;
+            img{
+                display: none;
+            }
+            
         }
     }
     #nav{
@@ -19,4 +26,7 @@ body {
             color: white;
         }
     }
+}
+#poweredBy{
+    display: none;
 }

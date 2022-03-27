@@ -16,6 +16,12 @@ body #container {
 }
 body #container #logo {
   margin-top: 10px;
+  background: url(../images/icon.svg) no-repeat center center fixed;
+  height: 320px;
+  width: 80px;
+}
+body #container #logo img {
+  display: none;
 }
 body #nav {
   margin: 0px;
@@ -24,6 +30,10 @@ body #nav {
 }
 body #nav li a {
   color: white;
+}
+
+#poweredBy {
+  display: none;
 }
 
 /*----------------------------------
