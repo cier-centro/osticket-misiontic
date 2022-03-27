@@ -11,8 +11,16 @@ body {
   background: url(../images/background.svg) no-repeat center center fixed #E8DBFF;
   margin-top: 6vh;
 }
-body .container {
+body #container {
   border-radius: 10px;
+}
+body #container #logo {
+  margin-top: 10px;
+}
+body #nav {
+  margin: 0px;
+  padding: 4px 10px;
+  background: #cecece;
 }
 
 /*----------------------------------
