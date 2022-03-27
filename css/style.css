@@ -16,7 +16,7 @@ body #container {
 }
 body #container #logo {
   margin-top: 10px;
-  background: url(../images/icon.svg) no-repeat center center content;
+  background: url(../images/icon.svg) no-repeat center center contain;
   height: 80px;
   width: 320px;
 }
