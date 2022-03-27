@@ -9,9 +9,10 @@ body {
         #header{}
         #logo{
             margin-top: 10px;
-            background: url(../images/icon.svg) no-repeat center center contain;
+            background: url(../images/icon.svg) no-repeat center center;
             height: 80px;
             width: 320px;
+            background-size: contain;
             img{
                 display: none;
             }

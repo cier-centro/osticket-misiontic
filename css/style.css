@@ -16,9 +16,10 @@ body #container {
 }
 body #container #logo {
   margin-top: 10px;
-  background: url(../images/icon.svg) no-repeat center center contain;
+  background: url(../images/icon.svg) no-repeat center center;
   height: 80px;
   width: 320px;
+  background-size: contain;
 }
 body #container #logo img {
   display: none;
